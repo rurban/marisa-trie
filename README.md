@@ -1,17 +1,20 @@
-- Project name
+# Project name
 
 marisa-trie
-http://code.google.com/p/marisa-trie/
 
-- Project summary
+New: https://github.com/rurban/marisa-trie
+Old: http://code.google.com/p/marisa-trie/
+
+
+# Project summary
 
 MARISA: Matching Algorithm with Recursively Implemented StorAge
 
-- Version
+# Version
 
 0.2.4
 
-- Description
+# Description
 
 *Matching Algorithm with Recursively Implemented !StorAge (MARISA)* is a static and space-efficient trie data structure. And *libmarisa* is a C++ library to provide an implementation of MARISA. Also, the package of *libmarisa* contains a set of command line tools for building and operating a MARISA-based dictionary.
 
@@ -45,19 +48,23 @@ The biggest advantage of *libmarisa* is that its dictionary size is considerably
    * LibraryInterface
    * BenchmarkResults
 
-- Version control system
+# Version control system
 
-Subversion
+git (formerly Subversion on google-code)
 
-- Source code license
+# Source code license
 
 The BSD 2-clause License
 The LGPL 2.1 or any later version
 
-- Project labels
+# Project labels
 
-Patricia
-Trie
-Static
-Dictionary
-CPlusPlus
+* Patricia
+* Trie
+* Static
+* Dictionary
+* CPlusPlus
+
+# See also
+
+https://github.com/s-yata/marisa2
