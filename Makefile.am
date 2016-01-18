@@ -1,6 +1,8 @@
 ACLOCAL_AMFLAGS = -I m4
+AUTOMAKE_OPTIONS = std-options subdir-objects
 
 SUBDIRS = lib tools tests
+
 
 pkgconfigdir = ${libdir}/pkgconfig
 pkgconfig_DATA = marisa.pc

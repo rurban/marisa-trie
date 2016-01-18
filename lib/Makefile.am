@@ -1,3 +1,4 @@
+AUTOMAKE_OPTIONS = std-options subdir-objects
 AM_CXXFLAGS = -Wall -Weffc++ -Wextra
 #AM_CXXFLAGS = -Wall -Weffc++ -Wextra -D_DEBUG
 
